@@ -1,1 +1,1 @@
-# gitcommands
+# gitcommands, it took me a while to figure this out,learning terraform is not an easy task.
