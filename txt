@@ -1,1 +1,0 @@
-may new vscode,  it took me a while to figure this out,learning terraform is not an easy task.
